@@ -1,0 +1,75 @@
+/* .circle{
+    list-style-type: upper-roman;
+} */
+
+.allcolor{
+    background-color: green;
+    color: white;
+}
+
+.mainmain:hover{
+    background-color: rgb(41, 243, 199);
+    color: rgb(29, 29, 29);
+}
+
+.main1:hover{
+    background-color: rgb(41, 243, 199);
+    color: rgb(29, 29, 29);
+}
+
+.main2:hover{
+    background-color: rgb(41, 243, 199);
+    color: rgb(29, 29, 29);
+}
+
+.main3:hover{
+    background-color: rgb(41, 243, 199);
+    color: rgb(29, 29, 29);
+}
+
+.main4:hover{
+    background-color: rgb(41, 243, 199);
+    color: rgb(29, 29, 29);
+}
+
+.main5:hover{
+    background-color: rgb(41, 243, 199);
+    color: rgb(29, 29, 29);
+}
+
+.main6:hover{
+    background-color: rgb(41, 243, 199);
+    color: rgb(29, 29, 29);
+}
+
+.mainmain{
+    text-align: left;
+}
+
+.main{
+    font-weight: bold;
+    width: 300px;
+    text-align: left;
+}
+.dark{
+    background-color: rgb(219, 245, 180);
+}
+td{
+    width: 100px;
+}
+table{
+    text-align: center;
+}
+tr td{
+    border: solid rgb(182, 181, 181) 1px;
+}
+
+table{
+    margin-top: 4%;
+    border-collapse: collapse;
+}
+
+h1{
+    margin-top: 5%;
+    padding-left: 27%;
+}
